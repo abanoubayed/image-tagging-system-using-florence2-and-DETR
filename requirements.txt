@@ -1,0 +1,8 @@
+streamlit
+torch
+einops
+timm
+transformers
+Pillow
+requests
+matplotlib
