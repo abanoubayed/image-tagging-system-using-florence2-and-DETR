@@ -30,9 +30,9 @@ streamlit run app.py
 ## Project Highlights
 •System Design: Leveraged AWS services for data storage, model hosting, and scalability, creating arobust cloud-based infrastructure.
 
-•System Development: Utilized the Florence-2 model for accurate caption generation and the DETRmodel for effective zero-shot object detection.
+•System Development: Utilized the Florence-2 model for accurate caption generation and the DETR model for effective zero-shot object detection.
 
-•System Deployment: Deployed the application on Streamlit, providing a user-friendly interface forreal-time image tagging and captioning accessible through a web-based platform.
+•System Deployment: Deployed the application on Streamlit, providing a user-friendly interface for real-time image tagging and captioning accessible through a web-based platform.
 ## Contributing
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
