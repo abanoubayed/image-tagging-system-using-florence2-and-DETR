@@ -5,7 +5,7 @@ An advanced image tagging system capable of analyzing images to detect objects, 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
+- [Project Highlights](#project-Highlights)
 - [Contributing](#contributing)
 - [License](#license)
 - ## Features
@@ -22,5 +22,9 @@ An advanced image tagging system capable of analyzing images to detect objects, 
    ```bash
    pip install -r requirements.txt
    ```
+## Usage
+To start the application, run:
+```bash
+streamlit run app.py
 
 
