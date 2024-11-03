@@ -28,7 +28,9 @@ To start the application, run:
 streamlit run app.py
 ```
 ## Project Highlights
-###System Design: Leveraged AWS services for data storage, model hosting, and scalability, creating a robust cloud-based infrastructure.
+System Design: Leveraged AWS services for data storage, model hosting, and scalability, creating a robust cloud-based infrastructure.
+
+![design](https://github.com/user-attachments/assets/a2776f24-67b3-4623-800b-f35d964e443d)
 
 System Development: Utilized the Florence-2 model for accurate caption generation and the DETR model for effective zero-shot object detection.
 
