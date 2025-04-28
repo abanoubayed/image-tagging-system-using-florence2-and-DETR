@@ -46,5 +46,3 @@ Deployed the application on Streamlit, providing a user-friendly interface for r
 ## Contributing
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
